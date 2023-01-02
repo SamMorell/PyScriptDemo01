@@ -1,2 +1,2 @@
 # PyScriptDemos
-Experimentiong with PyScript for a variety of demos.
+Experimenting with PyScript for a variety of demos.
