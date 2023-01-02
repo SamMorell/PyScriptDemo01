@@ -1,4 +1,2 @@
-# PyScriptDemo01
-My first PyScript code to display "Hello World"
-
-This is my first time working with PyScript.
+# PyScriptDemos
+Experimentiong with PyScript for a variety of demos.
